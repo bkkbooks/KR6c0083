@@ -1,0 +1,393 @@
+canonical_identifier: bkk:krp/KR6c0083/v1
+canonical_location: https://kanripo.org/bkk/KR6c0083/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛經演古
+  identifiers:
+    alt_id:
+    - X25n0495
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0495.xml
+    old_id: X25n0495
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0083_000.yaml, hash: 'sha256:abf1f6cccbc868741653c46d1dc0ced0cafc4b1a789ab8ca53c9dffe58dba319'}
+  - {seq: 1, filename: KR6c0083_001.yaml, hash: 'sha256:9a57a9915c88fddc9ef1860413573cc48211ac27a5d2f0e04d7ca3c637683440'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0083_000.markers.yaml, hash: 'sha256:398678bbbb8a03e0c6e19ca5540e84b3e73fc7102f5731a0e9d1b30d1f402974'}
+  - {seq: 1, role: markers, filename: assets/KR6c0083_001.markers.yaml, hash: 'sha256:333fd099dc63a62a1ed7943b8c39376109e6ecee1273f5ba9733a82dc5bb3fcb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0083_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 495-A 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0083_X_000-mulu-2
+    span:
+    - front
+    - 498
+    - 498
+  label: No. 495-B 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0083_X_000-mulu-3
+    span:
+    - front
+    - 937
+    - 937
+  label: No. 495-C 後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 22885
+  label: 金剛般若經演古
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-2
+    span:
+    - body
+    - 476
+    - 476
+  label: 初序分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-3
+    span:
+    - body
+    - 1411
+    - 1411
+  label: 二正宗分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-4
+    span:
+    - body
+    - 1415
+    - 1415
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-5
+    span:
+    - body
+    - 3686
+    - 3686
+  label: 第一疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-6
+    span:
+    - body
+    - 4112
+    - 4112
+  label: 第二疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-7
+    span:
+    - body
+    - 5234
+    - 5234
+  label: 第三疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-8
+    span:
+    - body
+    - 6466
+    - 6466
+  label: 第四疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-9
+    span:
+    - body
+    - 7578
+    - 7578
+  label: 第五疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-10
+    span:
+    - body
+    - 7753
+    - 7753
+  label: 第六疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-11
+    span:
+    - body
+    - 8274
+    - 8274
+  label: 第七疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-12
+    span:
+    - body
+    - 11284
+    - 11284
+  label: 第八疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-13
+    span:
+    - body
+    - 12261
+    - 12261
+  label: 第九疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-14
+    span:
+    - body
+    - 12552
+    - 12552
+  label: 第十疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-15
+    span:
+    - body
+    - 14235
+    - 14235
+  label: 第十一疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-16
+    span:
+    - body
+    - 14676
+    - 14676
+  label: 第十二疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-17
+    span:
+    - body
+    - 15094
+    - 15094
+  label: 第十三疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-18
+    span:
+    - body
+    - 15591
+    - 15591
+  label: 第十四疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-19
+    span:
+    - body
+    - 15993
+    - 15993
+  label: 第十五疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-20
+    span:
+    - body
+    - 16610
+    - 16610
+  label: 第十六疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-21
+    span:
+    - body
+    - 16906
+    - 16906
+  label: 第十七疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-22
+    span:
+    - body
+    - 17215
+    - 17215
+  label: 第十八疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-23
+    span:
+    - body
+    - 17889
+    - 17889
+  label: 第十九疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-24
+    span:
+    - body
+    - 18335
+    - 18335
+  label: 第二十疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-25
+    span:
+    - body
+    - 18608
+    - 18608
+  label: 第二十一疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-26
+    span:
+    - body
+    - 18984
+    - 18984
+  label: 第二十二疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-27
+    span:
+    - body
+    - 19581
+    - 19581
+  label: 第二十三疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-28
+    span:
+    - body
+    - 20119
+    - 20119
+  label: 第二十四疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-29
+    span:
+    - body
+    - 20394
+    - 20394
+  label: 第二十五疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-30
+    span:
+    - body
+    - 21732
+    - 21732
+  label: 第二十六疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-31
+    span:
+    - body
+    - 21948
+    - 21948
+  label: 第二十七疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0083_X_001-mulu-32
+    span:
+    - body
+    - 22531
+    - 22531
+  label: 三流通分
+  type: mulu
+  level: 1
+hash: sha256:19e4f14160e4c5550441cc1a097666291566b12e8307e4456b29400e64edf3f6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
