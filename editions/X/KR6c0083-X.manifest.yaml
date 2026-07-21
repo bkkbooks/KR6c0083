@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0083_000-X.yaml, hash: 'sha256:b3d4aced7bcff30f4523b85b42370af902471b21b45fe664d05caff688c1d3f2'}
+  - {seq: 0, filename: KR6c0083_000-X.yaml, hash: 'sha256:dc1dfd884193ffe226686044148af8352ce97f05547bc5e8a2684e91bda6a6c6'}
   - {seq: 1, filename: KR6c0083_001-X.yaml, hash: 'sha256:b4c2a65438e4362ba92b9dbdd7adca5a755a81c966a7ab6887cf98e5550e46f1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0083_000-X.markers.yaml, hash: 'sha256:a0d890457e5af774fc3423a2a33aa6e9a94bf453daf34b1ed9053a3afaab9cd8'}
+  - {seq: 0, role: markers, filename: assets/KR6c0083_000-X.markers.yaml, hash: 'sha256:2511218e6bc0bea9d5e9df08143ec436381c142eaf23670d01462b6f8a3efad9'}
   - {seq: 1, role: markers, filename: assets/KR6c0083_001-X.markers.yaml, hash: 'sha256:2d96cebc7db172d9dc758471604c81be2eb2b550c0c6dd04bb2139d6bd21733b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0083_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 495-A 序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0083_X_000-mulu-2
     span:
-    - front
+    - body
     - 498
     - 498
   label: No. 495-B 敘
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0083_X_000-mulu-3
     span:
-    - front
+    - body
     - 937
     - 937
   label: No. 495-C 後序
@@ -385,4 +385,4 @@ table_of_contents:
   label: 三流通分
   type: mulu
   level: 1
-hash: sha256:ff3561737fe987e181746c2489c7241590c776612f31869b1b34d3309e50370d
+hash: sha256:ceb34e9b696d080c47c20a840e570f7f56d601541cd8715a6af1067d497846a8
